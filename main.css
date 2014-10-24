@@ -114,19 +114,27 @@ table {
 	/*
 	max-width: 250px;
 	*/
-	max-width: 350px;
+	max-width: 900px;
 	margin-bottom: 30px;
 }
 
 .contentItem{
 	display: inline-block;
+	/*
 	max-width: 400px;
+	*/
+	max-width: 900px;
 	text-align: left;
 }
 
 .contentImage{
+	/*
 	max-width: 300px;
 	max-height: 450px;
+	*/
+	min-width: 300px;
+	min-height: 450px;
+
 	margin-top: 1.5em;
 }
 
