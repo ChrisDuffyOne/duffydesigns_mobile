@@ -73,14 +73,20 @@ table {
 	max-width: 300px;
 	max-height: 450px;
 	*/
-	max-width: 70%;
+	max-width: 60%;
 	margin-top: 1.5em;
 }
 
 .mouseHole{
+	/*
 	max-width: 100px;
 	max-height: 125px;
+	*/
+	max-width: 20%;
+	/*
 	margin-top: 3em;
+	*/
+	margin-top: 1em;
 	margin-bottom: -5px;
 }
 
@@ -105,7 +111,10 @@ table {
 .portfolioHeader{
 	margin-left: auto;
 	margin-right: auto;
+	/*
 	max-width: 250px;
+	*/
+	max-width: 350px;
 	margin-bottom: 30px;
 }
 
